@@ -1,1 +1,6 @@
-
+.action-container {
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: 250px auto;
+  column-gap: 16px;
+}
