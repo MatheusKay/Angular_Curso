@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "title": "Iphone 15 Pro",
-      "id": "377c"
-    },
-    {
-      "id": "8bbe",
-      "title": "Iphone 14"
-    },
-    {
       "title": "Iphone 7",
       "id": "ce84"
     },
